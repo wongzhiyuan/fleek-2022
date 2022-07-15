@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sangcomz:FishBun:0.11.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ffc0ae4f2f5028387e0243d8d7346064/jetified-FishBun-0.11.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ffc0ae4f2f5028387e0243d8d7346064/jetified-FishBun-0.11.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
